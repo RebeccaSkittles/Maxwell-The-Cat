@@ -59,4 +59,3 @@ This app is based on the original concept of rainmeter, bringing a touch of fun 
 ## Screenshots
 
 ![Maxwell The Cat](screenshots/maxwell-the-cat.png")
-`;
